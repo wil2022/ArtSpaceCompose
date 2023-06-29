@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="monalisa">Monalisa</string>
+    <string name="leonardo">Leonardo Da Vinci (1506)</string>
+    <string name="starry_night">Starry Night</string>
+    <string name="vincent">Vincent Van Gogh (1889)</string>
+    <string name="persistencia_memoria">La Persistencia de la Memoria</string>
+    <string name="salvador">Salvador Dali (1931)</string>
+
+</resources>
